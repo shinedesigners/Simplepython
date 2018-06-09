@@ -1,2 +1,3 @@
 # Simplepython
-Python is not a snake!
+
+Python is a language not a snake!
